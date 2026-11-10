@@ -1,0 +1,18 @@
+{
+ "seats": 573,
+ "england": 533,
+ "wales": 40,
+ "danelaw_seats": 275,
+ "danelaw_split_seats": 29,
+ "dane_shire_seats": 221,
+ "hc_nearest": 0,
+ "hc_mismatch_ref_vs_area": 14,
+ "settlements_ew": 30489,
+ "settlements_england": 26052,
+ "scand_england": 1100,
+ "scand_inside": 1073,
+ "seats_lt5_settle": 64,
+ "within_bw": 251,
+ "line_km_land": 345.9,
+ "line_km_treaty": 129.6
+}

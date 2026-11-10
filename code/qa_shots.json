@@ -1,0 +1,10 @@
+[{"out": "qa/desktop.png", "w": 1280, "h": 800},
+ {"out": "qa/desktop_popup.png", "w": 1280, "h": 800, "eval": "document.querySelector('#q').value='Barking';document.querySelector('#q').dispatchEvent(new Event('input'));document.querySelector('#sug li').dispatchEvent(new MouseEvent('mousedown',{bubbles:true}))"},
+ {"out": "qa/desktop_king.png", "w": 1280, "h": 800, "eval": "document.querySelector('.chip[data-m=king]').click();document.getElementById('lyrBtn').click()"},
+ {"out": "qa/desktop_dl.png", "w": 1280, "h": 800, "eval": "document.querySelector('.chip[data-m=dl]').click()"},
+ {"out": "qa/desktop_scand.png", "w": 1280, "h": 800, "eval": "document.querySelector('.chip[data-m=scand]').click()"},
+ {"out": "qa/phone.png", "w": 390, "h": 800, "dpr": 2},
+ {"out": "qa/phone_popup.png", "w": 390, "h": 800, "dpr": 2, "eval": "document.querySelector('#q').value='Cornwall';document.querySelector('#q').dispatchEvent(new Event('input'));document.querySelector('#sug li').dispatchEvent(new MouseEvent('mousedown',{bubbles:true}))"},
+ {"out": "qa/phone_full.png", "w": 390, "h": 800, "dpr": 1, "full": true},
+ {"out": "qa/desktop_full.png", "w": 1280, "h": 800, "full": true},
+ {"out": "qa/phone_zoom.png", "w": 390, "h": 800, "dpr": 2, "eval": "document.getElementById('lyBor').click();window.__map.jumpTo({center:[-1.08,53.96],zoom:12})"}]

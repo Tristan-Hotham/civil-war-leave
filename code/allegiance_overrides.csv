@@ -1,0 +1,13 @@
+# Hand decisions on the 1640 list. minus = "disabled" members who did not join the King; plus = members who fought and
+# died for the King before they could be disabled (so the notes say "killed", not "disabled").
+constituency,member,minus,plus,reason
+Berkshire,Henry Marten,1,0,"Disabled in 1643 for radical words against the King; a parliamentarian, readmitted 1645"
+Scarborough,John Hotham (younger),1,0,"Parliamentarian disabled in 1643 for plotting to surrender Hull; executed by Parliament"
+Beverley,Sir John Hotham,1,0,"Parliamentarian governor of Hull disabled in 1643 for the same plot; executed by Parliament"
+Queenborough,Hales,1,0,"Disabled in 1648 (second civil war), not in the first war"
+Aylesbury,Sir Ralph Verney,1,0,"Disabled in 1645 for refusing the Covenant and going abroad, not for joining the King"
+Helston,Sidney Godolphin,0,1,"Royalist officer killed at Chagford in 1643"
+Lostwithiel,John Trevanion,0,1,"Royalist officer killed at the storming of Bristol in 1643"
+Wycombe,Sir Edmund Verney,0,1,"The King's standard bearer, killed at Edgehill in 1642"
+Tamworth,Ferdinando Stanhope,0,1,"Royalist killed in action in 1643"
+Cardiff,William Herbert,0,1,"Killed at Edgehill in 1642 fighting for the King"

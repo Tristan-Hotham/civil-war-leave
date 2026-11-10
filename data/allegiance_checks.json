@@ -1,0 +1,23 @@
+{
+ "rows": 267,
+ "seats": 507,
+ "royalist": 201,
+ "royalist_4244": 193,
+ "rows_with_notes": 209,
+ "rows_disabled": 157,
+ "counties": 51,
+ "overrides_minus": 5,
+ "overrides_plus": 5,
+ "royalist_mech": 201,
+ "capped": 0,
+ "wales_seats": 27,
+ "wales_royalist": 18,
+ "wales_excl_monmouth_seats": 24,
+ "wales_excl_monmouth_royalist": 17,
+ "share_mean_county": 0.4549668692834783,
+ "share_min": 0.0,
+ "share_max": 1.0,
+ "boroughs": 216,
+ "boroughs_placed": 216,
+ "county_seats_rows": 51
+}

@@ -1,0 +1,129 @@
+<!-- wp:paragraph -->
+<p><em>Every so often someone sets the 2016 referendum map beside a map of the Danelaw, or of the counties that sided with the King in the Civil War, and the likeness looks uncanny. I tested both comparisons properly, seat by seat, with the plan written down first. The old lines are real. The likeness, mostly, is not history talking.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/civil-war-leave/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.24104516">Read the paper</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>I love a map that seems to reveal a hidden pattern, and I distrust them in about equal measure. The referendum map is a good example. Look at it beside a map of the Danelaw, the part of England where Viking rule and then Viking law held sway, and the east and north light up in both. Look at it beside a map of the Civil War, and London and the south east, Parliament's heartland in the 1640s, seem to line up with Remain. Pictures like these get shared a lot. I wanted to know whether the resemblance survives a fair test.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A fair test means two things. First, comparing like with like: the Danelaw is also the north and east, older, whiter and further from London, and those things are known to go with Leave. Second, deciding how to test it before seeing the answer. So I wrote down the plan, with the exact comparisons, the controls and what would count as a result, before running a single model on the vote. Then I ran it once.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_maps.png|Three maps of England and Wales. Left: the estimated Leave share by constituency, with the Danelaw line drawn from London up the Lea, to Bedford, along the Ouse and Watling Street to Chester. Middle: seats on the Danelaw side of the line shaded tan. Right: historic counties shaded from green to crimson by the share of their members of 1640 who joined the King, with borough dots.|Left: the Leave vote. Middle: the Danelaw line and the seats on each side of it. Right: the share of each county's members of the Long Parliament who later sided with the King.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The Danelaw: a real line</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In the 880s Alfred, king of the West Saxons, and the Viking leader Guthrum agreed a boundary. It ran up the Thames, up the River Lea to its source, then straight to Bedford, then up the Ouse to Watling Street, the old Roman road that is now the A5. The treaty says nothing beyond that, but the usual maps carry the line on along Watling Street towards Chester, and so did I. That puts {{desc1.dl_n|int}} of England's constituencies on the Danelaw side and {{desc1.nodl_n|int}} on the other.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It is not an imaginary line. Village names with Scandinavian endings, the Grimsbys and Scunthorpes, the -bys, -thorpes, -thwaites and -tofts, are almost all on one side of it: {{geo.scand_inside_pc|f0}}% of the {{geo.scand_england|int}} I found in England. Step across the line near Northampton or Leicester and they appear; step back and they all but vanish.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">An empty gap</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>On average, seats on the Danelaw side were estimated to vote Leave by {{x.t1_raw|f1}} points more than seats on the other side, {{desc1.leave_dl|f1}}% against {{desc1.leave_nodl|f1}}%. That is the gap behind the map comparisons. But the Danelaw side also had on average {{desc1.comp.pct_whitebrit|f0}} points more White British residents and {{desc1.comp.pct_degree|abs1}} points fewer people with a degree, two of the characteristics that studies of the vote have most often linked with Leave.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So I compared each seat with others in the same region with a similar population density, distance to a city and 2011 census profile. Once like is compared with like, the Danelaw gap is {{x.t1_main|f2}} points, with a 95% interval from {{x.t1_lo|f1}} to {{x.t1_hi|f1}}. Most of the drop comes in the final step, when the census profile of the people who live there now is added.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_ladder.png|Two dot and whisker charts. Left: the Danelaw gap in Leave share is about {{x.t1_raw|f0}} points with no controls and about zero once region, density and the 2011 census profile are included. Right: the estimate for royalist counties moves from slightly positive to slightly negative.|How each estimate changes as I compare more like with like. The bold row is the main model I set out in advance.}}
+
+<!-- wp:pullquote -->
+<figure class="wp-block-pullquote"><blockquote><p>The line still shows in the village names. It does not show in the vote, once like is compared with like.</p></blockquote></figure>
+<!-- /wp:pullquote -->
+
+<!-- wp:paragraph -->
+<p>Another way to test a border is to stand right on it and compare the seats just either side. That gives a jump of {{t1.rd.main.b|f1}} points with the census controls. But this test turned out to be shaky: the answer changed with how wide a strip I used, and a fake line drawn 50 km to the south west, where no border ever ran, showed a jump of {{t1.rd.placebo_sw.b|f1}} points of its own. The real line runs along the edge of London and the Midland cities, so the two sides differ today in density and education, and a border test cannot separate that from history. The village names, by contrast, jump at the line by {{t1.rd.scand.b|f1}} points.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_line.png|Two scatter charts of seats within 50 km of the Danelaw line by distance from it. Left: the Leave share, which rises across the line in the raw data. Right: the share of villages with Scandinavian names, which jumps from almost none to several per cent at the line.|Crossing the line. Village names jump; the vote, once like is compared with like, does not.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">King or Parliament</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Civil War is harder to map, because who held what changed month by month. I did not have a clean map of 1643 as data, so I used people instead. The Long Parliament was elected in 1640. When war came, members who went over to the King were "disabled" from sitting. Going through the list of members elected in 1640, I counted {{lp.royalist|int}} of the {{lp.seats|int}} seats whose members joined the King, with a few decisions by hand, such as members killed fighting for the King before they could be disabled. In Wales it came to {{lp.wales_excl_monmouth_royalist|int}} of {{lp.wales_excl_monmouth_seats|int}}, matching a published count.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Each historic county then gets the share of its members who joined the King: none at all in Bedfordshire, Denbighshire, Essex and Middlesex, every one of them in seven Welsh counties and Westmorland. Cornwall was at {{lp.county.Cornwall.pc|f0}}%, Somerset {{lp.county.Somerset.pc|f0}}%, Yorkshire {{lp.county.Yorkshire.pc|f0}}% and Kent {{lp.county.Kent.pc|f0}}%.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Without any controls, seats in more royalist counties were very slightly more Leave, but not clearly so. Comparing like with like, the sign turns: {{x.t2_main|f2}} points of Leave for every 10 points more royalist a county's members were, or about {{t2.main.b_sd|abs1}} points for a typical difference between counties. That is small. It is also fragile. With a test suited to having only {{t2.main.clusters|int}} counties, the p value is {{t2.wild.p|f2}}, and it fades for England on its own, when I count only disablements from 1642 to 1644, and when I simply split counties into mostly royalist or not. If it means anything, the Cavalier counties leaned a hair towards Remain, the opposite of the popular story. I would not lean on it.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_county.png|Two scatter charts of historic counties. Left: the share of members who joined the King against the mean Leave share, with Middlesex low and on the left. Right: the same after adjusting for region, density and the census, with a gentle downward slope.|Each dot is a historic county. Left: as it comes. Right: after comparing like with like.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">What held up and what did not</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I planned {{t1.robust_summary.n|int}} other checks for the Danelaw, from using only the best attested part of the line to dropping London. Only one shows a gap: the fifteen shires that medieval law lists put under Danish law, which include Buckinghamshire and Middlesex and leave out Lancashire and the far north, show {{t1.robust.shires.b|f1}} points. A different Danelaw gives a different answer, which tells you how much these map comparisons depend on where the line is drawn. For the Civil War, {{t2.robust_summary.n_sig|int}} of {{t2.robust_summary.n|int}} checks keep a small negative estimate whose interval excludes zero; in the other three the estimate is still slightly negative but the interval crosses zero.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_forest.png|Two forest plots listing every planned check for each test. For the Danelaw almost every interval crosses zero; for the Civil War most sit just below zero.|Every planned check, with 95% intervals. Dark rows exclude zero.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How I did this</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Leave share for each 2010 constituency is Chris Hanretty's estimate, and the census profile is from 2011, the same data I used in <a href="https://maps.tristanhotham.com/beeching-leave/">Did Beeching's cuts make places vote Leave?</a>. I drew the Danelaw line point by point along the Lea, the Ouse, Watling Street and the Roman road to Chester, and coded each seat by which side most of its area falls on. The village names come from Wikidata. The Civil War coding comes from the Wikipedia list of members elected in 1640, read row by row, with every hand decision written down in the code. Historic counties are the ones I rebuilt for <a href="https://maps.tristanhotham.com/enclosure/">Fencing the commons</a>. The main comparison is a regression with region, density, distance to a city and eleven census measures, with uncertainty that allows for seats in the same council or county being alike.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What this cannot say: these are comparisons across places, not causes. Members of Parliament were gentry, not the people, so a county's members are not a map of who held the ground. The Danelaw line beyond Watling Street is a convention of modern maps, and it may have lasted only a few years. And comparing like with like on today's census asks only whether the old lines add something beyond what places are now. If history helped decide who lives where, that part sits inside the comparison, and this design cannot pull it out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/civil-war-leave/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.24104516">Read the paper</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/Tristan-Hotham/civil-war-leave">Data and code</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Notes and sources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Leave estimates: C. Hanretty (2017), Areal interpolation and the UK's referendum on EU membership, Journal of Elections, Public Opinion and Parties. 2011 census by constituency (ONS and NRS, Open Government Licence v3.0) via the parlitools package. Constituency boundaries: ONS and OS (OGL).</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Wikipedia contributors, "List of MPs elected to the English Parliament in 1640 (November)", CC BY-SA 4.0. Settlements and their names: Wikidata (CC0). Historic counties from <a href="https://maps.tristanhotham.com/enclosure/">Fencing the commons</a> (Hotham 2026).</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Further reading: D. Brunton and D. H. Pennington, Members of the Long Parliament (1954); A. H. Dodd, Studies in Stuart Wales (1952); D. N. Dumville, Wessex and England from Alfred to Edgar (1992); R. H. C. Davis, "Alfred and Guthrum's frontier", English Historical Review (1982); S. O. Becker, T. Fetzer and D. Novy, "Who voted for Brexit?", Economic Policy (2017).</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

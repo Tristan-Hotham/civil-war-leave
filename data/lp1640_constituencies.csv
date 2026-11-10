@@ -1,0 +1,268 @@
+section,county,constituency,link,n_members,members,notes,n_disabled_raw,n_disabled_4244_raw,n_disabled_late_raw,override_minus,override_plus,seats,royalist,royalist_4244,royalist_mech,share,lon,lat,placed,kind
+Bedfordshire,Bedfordshire,Bedfordshire,Bedfordshire,2,The Lord Wentworth; Sir Oliver Luke,Wentworth went to the House of Lords 25 November 1640 and was replaced in 1641 by Roger Burgoyne,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Bedfordshire,Bedfordshire,Bedford,Bedford,2,Sir Beauchamp St John; Sir Samuel Luke,,0,0,0,0,0,2,0,0,0,0.0,-0.463055,52.134444,wikidata,borough
+Berkshire,Berkshire,Berkshire,Berkshire,2,John Fettiplace; Henry Marten,"Fettiplace disabled 22 January 1644; Martin disabled 16 August 1643, but readmitted 6 January 1645",2,2,0,1,0,2,1,1,2,0.5,,,county,county
+Berkshire,Berkshire,Windsor,Windsor,2,Cornelius Holland; William Taylor,(In place of Thomas Rowe and Thomas Walter not duly elected); Taylor expelled 27 May 1641 and replaced by Richard Winwood,0,0,0,0,0,2,0,0,0,0.0,-0.6,51.483333,wikidata,borough
+Berkshire,Berkshire,Reading,Reading,2,Sir Francis Knollys sen.; Sir Francis Knollys jun.,Knollys junior died in 1643,0,0,0,0,0,2,0,0,0,0.0,-0.973056,51.454167,wikidata,borough
+Berkshire,Berkshire,Abingdon,Abingdon,1,Sir George Stonhouse Bt,Disabled 22 January 1644,1,1,0,0,0,1,1,1,1,1.0,-1.28904,51.67096,wikidata,borough
+Berkshire,Berkshire,Wallingford,Wallingford,2,Edmund Dunch; Thomas Howard,Howard disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-1.125,51.599,wikidata,borough
+Buckinghamshire,Buckinghamshire,Buckinghamshire,Buckinghamshire,2,John Hampden; Arthur Goodwin,Hampden killed in June 1643;  Goodwin died August 1643,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Buckinghamshire,Buckinghamshire,Buckingham,Buckingham,2,Sir Peter Temple; Sir Alexander Denton,Denton disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-1.0,52.0,wikidata,borough
+Buckinghamshire,Buckinghamshire,Wycombe,Wycombe,2,Sir Edmund Verney; Thomas Lane,Verney killed October 1642,0,0,0,0,1,2,1,1,0,0.5,-0.751667,51.621667,wikidata,borough
+Buckinghamshire,Buckinghamshire,Aylesbury,Aylesbury,2,"Sir John Pakington, Bt; Ralph Verney",Pakington disabled 20 August 1642;  Verney disabled 22 September 1645,2,1,1,1,0,2,1,1,2,0.5,-0.8124,51.8168,wikidata,borough
+Buckinghamshire,Buckinghamshire,Amersham,Amersham,2,William Cheyney; William Drake,Cheyney died 1641,0,0,0,0,0,2,0,0,0,0.0,-0.633333,51.666667,wikidata,borough
+Buckinghamshire,Buckinghamshire,Wendover,Wendover,2,Robert Croke; Thomas Fountaine,Croke disabled 15 November 1643; Fountain died in 1646,1,1,0,0,0,2,1,1,1,0.5,-0.745,51.7675,wikidata,borough
+Buckinghamshire,Buckinghamshire,Marlow,Marlow,2,John Borlase; Gabriel Hippesley,Election declared void ; Replaced by Bulstrode Whitelocke and Peregrine Hoby,0,0,0,0,0,2,0,0,0,0.0,-0.766667,51.566667,wikidata,borough
+Cambridgeshire,Cambridgeshire,Cambridgeshire,Cambridgeshire,2,Sir Dudley North Bt.; Thomas Chicheley,Chicheley disabled 16 September 1642,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Cambridgeshire,Cambridgeshire,Cambridge University,Cambridge University,2,Henry Lucas; Thomas Eden,Eden died 1644,0,0,0,0,0,2,0,0,0,0.0,0.1225,52.208055,wikidata,borough
+Cambridgeshire,Cambridgeshire,Cambridge,Cambridge,2,Oliver Cromwell; John Lowry,,0,0,0,0,0,2,0,0,0,0.0,0.1225,52.208055,wikidata,borough
+Cheshire,Cheshire,Cheshire,Cheshire,2,"|Peter Venables; Sir William Brereton, Bt",Venables disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Cheshire,Cheshire,City of Chester,City of Chester,2,Sir Thomas Smith; Francis Gamull,Smith and Gamul disabled 22 January 1644,2,2,0,0,0,2,2,2,2,1.0,-2.883333,53.2,wikidata,borough
+Cornwall,Cornwall,Cornwall,Cornwall,2,Alexander Carew; Sir Bevil Grenville,Carew disabled 4 September 1643; Grenville disabled 19 September 1642,2,2,0,0,0,2,2,2,2,1.0,,,county,county
+Cornwall,Cornwall,Launceston,Launceston,2,Ambrose Manaton; William Coryton,"Coryton expelled for falsifying returns in 1641, replaced by John Harris; Manaton disabled 22 January 1644",1,1,0,0,0,2,1,1,1,0.5,-4.354,50.635,wikidata,borough
+Cornwall,Cornwall,Liskeard,Liskeard,2,John Harris; Joseph Jane,Harris and Jane both disabled 22 January 1644,2,2,0,0,0,2,2,2,2,1.0,-4.4651,50.4536,wikidata,borough
+Cornwall,Cornwall,Lostwithiel,Lostwithiel,2,John Trevanion; Richard Arundell,Trevanion killed in action; Arundell disabled 22 January 1644,1,1,0,0,1,2,2,2,1,1.0,-4.669639,50.407411,wikidata,borough
+Cornwall,Cornwall,Truro,Truro,2,John Rolle; Francis Rous,,0,0,0,0,0,2,0,0,0,0.0,-5.051,50.26,wikidata,borough
+Cornwall,Cornwall,Bodmin,Bodmin,2,John Arundell; Anthony Nichols,Arundell disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-4.718,50.466,wikidata,borough
+Cornwall,Cornwall,Helston,Helston,2,Francis Godolphin; Sidney Godolphin,Sidney Godolphin killed in action 1642; Francis Godolphin disabled 22 January 1644,1,1,0,0,1,2,2,2,1,1.0,-5.27,50.1,wikidata,borough
+Cornwall,Cornwall,Saltash,Saltash,2,George Buller; Edward Hyde,Hyde disabled 11 August 1642; Buller died,1,1,0,0,0,2,1,1,1,0.5,-4.212,50.408,wikidata,borough
+Cornwall,Cornwall,Camelford,Camelford,2,Piers Edgecumbe; William Glanville,Both disabled 22 January 1644,2,2,0,0,0,2,2,2,2,1.0,-4.683,50.617,wikidata,borough
+Cornwall,Cornwall,Grampound,Grampound,2,William Coryton; James Campbell,Coryton replaced by Sir John Trevor,0,0,0,0,0,2,0,0,0,0.0,-4.9,50.3,wikidata,borough
+Cornwall,Cornwall,Eastlow,East Looe,2,Francis Buller; Thomas Lower,Lower disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-4.451795,50.354567,wikidata,borough
+Cornwall,Cornwall,Westlow,West Looe,2,Thomas Arundell; Henry Killigrew,Killigrew disabled 33 January 1644,1,1,0,0,0,2,1,1,1,0.5,-4.458305,50.353109,wikidata,borough
+Cornwall,Cornwall,Penryn,Penryn,2,John Bampfylde; Sir Nicholas Slanning,Slanning disabled 9 August 1642,1,1,0,0,0,2,1,1,1,0.5,-5.107,50.169,wikidata,borough
+Cornwall,Cornwall,Tregoney,Tregoney,2,Richard Vyvyan; John Polwhele,Both disabled 22 January 1644,2,2,0,0,0,2,2,2,2,1.0,-4.911,50.268,wikidata,borough
+Cornwall,Cornwall,Bossiney,Bossiney,2,Sir Christopher Yelverton; Sir John Clotworthy,Clotworthy sat for Maldon - replaced by Sir Ralph Sydenham - Sydenham disabled 28 September 1642,1,1,0,0,0,2,1,1,1,0.5,-4.743,50.665,hand,borough
+Cornwall,Cornwall,St Ives,St Ives,2,Francis Godolphin; Viscount L'Isle,"Lisle chise Yarmouth, replaced by Edmund Waller; Waller disabled  14 July 1643",1,1,0,0,0,2,1,1,1,0.5,-5.48,50.21,wikidata,borough
+Cornwall,Cornwall,Fowey,Fowey,2,Jonathan Rashleigh; Sir Richard Buller,Rashleigh disabled 22 January 1644; Buller died,1,1,0,0,0,2,1,1,1,0.5,-4.633,50.334,wikidata,borough
+Cornwall,Cornwall,St Germans,St Germans,2,Benjamin Valentine; John Moyle jun.,Moyle died,0,0,0,0,0,2,0,0,0,0.0,-4.31,50.396,wikidata,borough
+Cornwall,Cornwall,Mitchel,Mitchell,2,William Chadwell; John Arundell,Arundell chose Bodmin - replaced by Robert Holborne  Chadwell disabled 22 January 1644; Holborne disabled 15 August 1642,2,2,0,0,0,2,2,2,2,1.0,-5.0073,50.3524,wikidata,borough
+Cornwall,Cornwall,Newport,Newport (Cornwall),2,Richard Edgecumbe; John Maynard,Maynard chose Totnes but not replaced; Edgcumbe disabled,1,1,0,0,0,2,1,1,1,0.5,-4.36,50.64,hand,borough
+Cornwall,Cornwall,St Mawes,St Mawes,2,Dr George Parry; Richard Erisey,Parry disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-5.018,50.158,wikidata,borough
+Cornwall,Cornwall,Callington,Callington,2,Sir Arthur Ingram; George Fane,Ingram died 1642; Fane disabled,1,1,0,0,0,2,1,1,1,0.5,-4.316,50.503,wikidata,borough
+Cumberland,Cumberland,Cumberland,Cumberland,2,"Sir George Dalston; Sir Patricius Curwen, Bt",Both disabled 15 March 1644,2,2,0,0,0,2,2,2,2,1.0,,,county,county
+Cumberland,Cumberland,Carlisle,Carlisle,2,Sir William Dalston Bt; Richard Barwis,Dalston disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-2.936389,54.894722,wikidata,borough
+Cumberland,Cumberland,Cockermouth,Cockermouth,2,Sir John Hippisley; Sir John Fenwick,One seat vacant after Fenwick sat for Northumberland,0,0,0,0,0,2,0,0,0,0.0,-3.362,54.6613,wikidata,borough
+Derbyshire,Derbyshire,Derbyshire,Derbyshire,2,Sir John Curzon Bt; Sir John Coke,,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Derbyshire,Derbyshire,Derby,Derby,2,William Allestry; Nathaniel Hallowes,Allestry disabled October 1643,1,1,0,0,0,2,1,1,1,0.5,-1.476667,52.921667,wikidata,borough
+Devon,Devon,Devon,Devon,2,Edward Seymour; Thomas Wise,Wise died; Seymour disabled 16 January 1644,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Devon,Devon,Exeter,Exeter,2,Robert Walker; Simon Snow,Walker disabled 6 March 1643,1,1,0,0,0,2,1,1,1,0.5,-3.526944,50.725555,wikidata,borough
+Devon,Devon,Totnes,Totnes,2,Oliver St John; John Maynard,,0,0,0,0,0,2,0,0,0,0.0,-3.68391,50.43216,wikidata,borough
+Devon,Devon,Plymouth,Plymouth,2,Robert Trelawney; John Waddon,Trelawney expelled - replaced by Sir John Young,0,0,0,0,0,2,0,0,0,0.0,-4.142222,50.371389,wikidata,borough
+Devon,Devon,Barnstaple,Barnstaple,2,George Peard; Richard Ferris,Pead died; Ferris disabled,1,1,0,0,0,2,1,1,1,0.5,-4.0489,51.0823,wikidata,borough
+Devon,Devon,Plympton Erle,Plympton Erle,2,Michael Oldisworth; Sir Nicholas Slanning,"Oldisworth chose Salisbury and Slanning chose Penryn - replaced by Hugh Potter and Sir Thomas Hele, 1st Baronet :Potter and Hele disabled",2,2,0,0,0,2,2,2,2,1.0,-4.051,50.386,wikidata,borough
+Devon,Devon,Tavistock,Tavistock,2,John Pym; Lord William Russell,Russell ennobled 22 May 1641 - replaced by Hon. John Russell; Russell disabled 22 January 1644; Pym died December 1643,1,1,0,0,0,2,1,1,1,0.5,-4.14424,50.55003,wikidata,borough
+Devon,Devon,Clifton Dartmouth Hardness,Dartmouth,2,John Upton; Roger Matthew,Upton died 1641; Matthew disabled 5 February 1644,1,1,0,0,0,2,1,1,1,0.5,-3.578611,50.350278,wikidata,borough
+Devon,Devon,Bere Alston,Bere Alston,2,William Strode; Sir Francis Cheeke,Cheek chose Harwich - replaced by Hugh Pollard; Pollard expelled 9 December 1641; Strode died 1645,0,0,0,0,0,2,0,0,0,0.0,-4.2,50.4833,wikidata,borough
+Devon,Devon,Tiverton,Tiverton,2,Peter Sainthill; George Hartnall,Sainthill disabled 22 January 1644; Hartnall disabled,2,2,0,0,0,2,2,2,2,1.0,-3.488,50.903,wikidata,borough
+Devon,Devon,Ashburton,Ashburton,2,Sir John Northcote; Sir Edmund Fowell,,0,0,0,0,0,2,0,0,0,0.0,-3.751,50.517,wikidata,borough
+Devon,Devon,Honiton,Honiton,2,William Poole; Walter Yonge,Poole disabled 24 June 1643,1,1,0,0,0,2,1,1,1,0.5,-3.19,50.8,wikidata,borough
+Devon,Devon,Okehampton,Okehampton,2,Edward Thomas; Lawrence Whitaker,,0,0,0,0,0,2,0,0,0,0.0,-4.0041,50.7388,wikidata,borough
+Dorset,Dorset,Dorset,Dorset,2,Lord Digby; Richard Rogers,Digby ennobled 10 June 1641; Rogers disabled 12 September 1642,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Dorset,Dorset,Poole,Poole,2,John Pyne; William Constantine,Constantine disabled 4 September 1643,1,1,0,0,0,2,1,1,1,0.5,-1.983333,50.716667,wikidata,borough
+Dorset,Dorset,Dorchester,Dorchester,2,Denzil Holles; Denis Bond,,0,0,0,0,0,2,0,0,0,0.0,-2.439722,50.710833,wikidata,borough
+Dorset,Dorset,Lyme Regis,Lyme Regis,2,Edmund Prideaux; Richard Rose,,0,0,0,0,0,2,0,0,0,0.0,-2.935278,50.725,wikidata,borough
+Dorset,Dorset,Weymouth,Weymouth,2,Sir John Strangways; Sir Walter Erle,Strangways disabled 6 September 1642,1,1,0,0,0,2,1,1,1,0.5,-2.454722,50.609722,wikidata,borough
+Dorset,Dorset,Melcombe,Weymouth and Melcombe Regis,2,Gerrard Napier; Richard King,King disabled 27 February 1643; Napier disabled 22 January 1644,2,2,0,0,0,2,2,2,2,1.0,-2.454722,50.609722,wikidata,borough
+Dorset,Dorset,Bridport,Bridport,2,Giles Strangways; Roger Hill,Strangways disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-2.766667,50.733333,wikidata,borough
+Dorset,Dorset,Shaftesbury,Shaftesbury,2,William Whitaker; Samuel Turner,Turner disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-2.198,51.0066,wikidata,borough
+Dorset,Dorset,Wareham,Wareham,2,John Trenchard; Thomas Erle,,0,0,0,0,0,2,0,0,0,0.0,-2.10888,50.69188,wikidata,borough
+Dorset,Dorset,Corfe Castle,Corfe Castle,2,Sir Francis Windebank; Giles Green,Windebanke fled from the Kingdom. His successor John Borlase disabled 4 March 1644,1,1,0,0,0,2,1,1,1,0.5,-2.056105,50.637636,wikidata,borough
+Essex,Essex,Essex,Essex,2,Lord Rich; Sir William Masham Bt,"Rich elevated to House of Lords 27 January 1641 - replaced by Sir Martin Lumley, 1st Baronet",0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Essex,Essex,Colchester,Colchester,2,Harbottle Grimston (junior); Sir Thomas Barrington Bt,Barrington died 1644,0,0,0,0,0,2,0,0,0,0.0,0.903611,51.888611,wikidata,borough
+Essex,Essex,Maldon,Maldon,2,Sir Henry Mildmay; Sir John Clotworthy,,0,0,0,0,0,2,0,0,0,0.0,0.675833,51.731667,wikidata,borough
+Essex,Essex,Harwich,Harwich,2,Harbottle Grimston (senior); Sir Thomas Cheek,,0,0,0,0,0,2,0,0,0,0.0,1.288333,51.944444,wikidata,borough
+Gloucestershire,Gloucestershire,Gloucestershire,Gloucestershire,2,John Dutton; Nathaniel Stephens,Dutton disabled,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Gloucestershire,Gloucestershire,Gloucester,Gloucester,2,Thomas Pury; Henry Brett,Brett disabled,1,1,0,0,0,2,1,1,1,0.5,-2.245833,51.865278,wikidata,borough
+Gloucestershire,Gloucestershire,Cirencester,Cirencester,2,Sir Theobald Gorges; John George,Gorges disabled 22 January 1644; George also disabled,2,2,0,0,0,2,2,2,2,1.0,-1.968,51.719,wikidata,borough
+Gloucestershire,Gloucestershire,Tewkesbury,Tewkesbury,2,Sir Robert Cooke; Edward Stephens,Election originally voided for double return with Edward Alford; Cooke died 1643,0,0,0,0,0,2,0,0,0,0.0,-2.136,51.986,wikidata,borough
+Hampshire,Hampshire,Hampshire,Hampshire,2,Sir Henry Wallop; Richard Whitehead,,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Hampshire,Hampshire,Winchester,Winchester,2,John Lisle; Sir William Ogle,Ogle disabled 24 June 1643,1,1,0,0,0,2,1,1,1,0.5,-1.308611,51.063333,wikidata,borough
+Hampshire,Hampshire,Southampton,Southampton,2,George Gallop; Edward Exton,,0,0,0,0,0,2,0,0,0,0.0,-1.404444,50.906667,wikidata,borough
+Hampshire,Hampshire,Portsmouth,Portsmouth,2,George Goring; Edward Dowse,Goring disabled 16 August 1642,1,1,0,0,0,2,1,1,1,0.5,-1.087222,50.805833,wikidata,borough
+Hampshire,Hampshire,Yarmouth,Yarmouth (Isle of Wight),2,Viscount L'Isle; Sir John Leigh,,0,0,0,0,0,2,0,0,0,0.0,-1.498,50.706,hand,borough
+Hampshire,Hampshire,Petersfield,Petersfield,2,Sir William Lewis; William Uvedale,Uvedale disabled,1,1,0,0,0,2,1,1,1,0.5,-0.93453,51.003769,wikidata,borough
+Hampshire,Hampshire,Newport alias Medina,Newport (Isle of Wight),2,Lucius Viscount Falkland; Henry Worsley,Cary (Falkland) disabled 22 September 1642,1,1,0,0,0,2,1,1,1,0.5,-1.29,50.7,hand,borough
+Hampshire,Hampshire,Stockbridge,Stockbridge,2,William Heveningham; William Jephson,,0,0,0,0,0,2,0,0,0,0.0,-1.490647,51.114003,wikidata,borough
+Hampshire,Hampshire,Newtown,Newtown,2,"Sir John Meux, 1st Baronet; Sir John Barrington Bt.",Weston disabled 16 August 1642; Meux disabled 5 February 1644,2,2,0,0,0,2,2,2,2,1.0,-1.405,50.718,hand,borough
+Hampshire,Hampshire,Christchurch,Christchurch,2,Henry Tulse; Matthew Davis,Tulse died 1642; Davis disabled 16 March 1643,1,1,0,0,0,2,1,1,1,0.5,-1.78,50.73,wikidata,borough
+Hampshire,Hampshire,Whitchurch,Whitchurch,2,Sir Thomas Jervoise; Richard Jervoise,,0,0,0,0,0,2,0,0,0,0.0,-1.338,51.23,hand,borough
+Hampshire,Hampshire,Lymington,Lymington,2,John Button; Henry Campion,,0,0,0,0,0,2,0,0,0,0.0,-1.55,50.75,wikidata,borough
+Hampshire,Hampshire,Andover,Andover,2,Robert Wallop; Henry Vernon,Vernon unseated for Sir William Waller,0,0,0,0,0,2,0,0,0,0.0,-1.4667,51.2167,wikidata,borough
+Herefordshire,Herefordshire,Herefordshire,Herefordshire,2,Sir Robert Harley; Fitzwilliam Coningsby,Coningsby expelled as monopolist 30 October 1641 replaced by Humphrey Coningsby who was disabled,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Herefordshire,Herefordshire,Hereford,Hereford,2,Richard Weaver; Richard Seaborne,Weaver died May 1642 - replaced by James Scudamore. Scudamore disabled; Seaborne disabled 3 January 1646,2,1,1,0,0,2,2,1,2,1.0,-2.716111,52.056389,wikidata,borough
+Herefordshire,Herefordshire,Weobley,Weobley,2,Arthur Jones Lord Ranelagh; Thomas Tomkins,Tomkins disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-2.873,52.159,wikidata,borough
+Herefordshire,Herefordshire,Leominster,Leominster,2,Sampson Eure; Walter Kyrle,Eure disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-2.733333,52.233333,wikidata,borough
+Hertfordshire,Hertfordshire,Hertfordshire,Hertfordshire,2,Sir William Lytton; Arthur Capel,Capel was raised to the peerage 6 August 1641 and replaced by Thomas Dacres,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Hertfordshire,Hertfordshire,St Albans,St Albans,2,Sir John Jennings; Edward Wingate,Jennings died 1642,0,0,0,0,0,2,0,0,0,0.0,-0.336,51.755,wikidata,borough
+Hertfordshire,Hertfordshire,Hertford,Hertford,2,Viscount Cranborne; Sir Thomas Fanshawe,Fanshawe disabled 24 November 1643,1,1,0,0,0,2,1,1,1,0.5,-0.078,51.795,wikidata,borough
+Huntingdonshire,Huntingdonshire,Huntingdonshire,Huntingdonshire,2,Sir Sidney Montagu; Valentine Walton,Montagu disabled 3 December 1642,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Huntingdonshire,Huntingdonshire,Huntingdon,Huntingdon,2,George Montagu; Edward Montagu,,0,0,0,0,0,2,0,0,0,0.0,-0.1717,52.3364,wikidata,borough
+Kent (see also Cinque Ports),Kent,Kent,Kent,2,Sir Edward Dering; Sir John Colepepper,Dering disabled 2 February 1642 and died 1644; Colepepper disabled 22 January 1644,2,2,0,0,0,2,2,2,2,1.0,,,county,county
+Kent (see also Cinque Ports),Kent,Canterbury,Canterbury,2,Sir Edward Masters; John Nutt,,0,0,0,0,0,2,0,0,0,0.0,1.0775,51.278333,wikidata,borough
+Kent (see also Cinque Ports),Kent,Rochester,Rochester,2,Sir Thomas Walsingham; Richard Lee,,0,0,0,0,0,2,0,0,0,0.0,0.50546,51.38764,wikidata,borough
+Kent (see also Cinque Ports),Kent,Maidstone,Maidstone,2,Francis Barnham; Sir Humfrey Tufton,Barneham died 1646,0,0,0,0,0,2,0,0,0,0.0,0.529444,51.271667,wikidata,borough
+Kent (see also Cinque Ports),Kent,Queenborough,Queenborough,2,Sir Edward Hales; William Harrison,Harrison disabled 24 June 1643; Hales disabled 1648,2,1,1,1,0,2,1,1,2,0.5,0.745,51.4183,wikidata,borough
+Lancashire,Lancashire,Lancashire,Lancashire,2,Ralph Assheton; Roger Kirkby,Kirby disabled 29 August 1642,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Lancashire,Lancashire,Lancaster,Lancaster,2,John Harrison; Thomas Fanshawe,Fanshawe disabled 7 September 1642; Harrison disabled 4 September 1643,2,2,0,0,0,2,2,2,2,1.0,-2.801389,54.048889,wikidata,borough
+Lancashire,Lancashire,Preston,Preston,2,Richard Shuttleworth; Thomas Standish,Standish died 1642,0,0,0,0,0,2,0,0,0,0.0,-2.698056,53.759445,wikidata,borough
+Lancashire,Lancashire,Newton,Newton,2,William Ashurst; Peter Legh,Legh died after duel February 1642 - replaced by Sir Roger Palmer Palmer disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-2.633,53.453,hand,borough
+Lancashire,Lancashire,Wigan,Wigan,2,Orlando Bridgeman; Alexander Rigby,Bridgeman disabled 29 August 1642,1,1,0,0,0,2,1,1,1,0.5,-2.631667,53.544722,wikidata,borough
+Lancashire,Lancashire,Clitheroe,Clitheroe,2,Sir Ralph Assheton; Richard Shuttleworth jun.,,0,0,0,0,0,2,0,0,0,0.0,-2.3916,53.8711,wikidata,borough
+Lancashire,Lancashire,Liverpool,Liverpool,2,"Sir Richard Wynn, 2nd Baronet; John Moore",,0,0,0,0,0,2,0,0,0,0.0,-2.991667,53.407222,wikidata,borough
+Leicestershire,Leicestershire,Leicestershire,Leicestershire,2,"Sir Arthur Hesilrige; Henry de Grey, Lord Ruthin",de Grey became Earl of Kent in 1643,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Leicestershire,Leicestershire,Leicester,Leicester,2,Lord Grey of Groby; Thomas Coke,Coke disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-1.133055,52.636111,wikidata,borough
+Lincolnshire,Lincolnshire,Lincolnshire,Lincolnshire,2,Sir John Wray; Sir Edward Ayscough,,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Lincolnshire,Lincolnshire,Lincoln,Lincoln,2,Thomas Grantham; John Broxholme,Broxholme died 1647,0,0,0,0,0,2,0,0,0,0.0,-0.55,53.25,wikidata,borough
+Lincolnshire,Lincolnshire,Boston,Boston,2,Sir Anthony Irby; William Ellis,,0,0,0,0,0,2,0,0,0,0.0,-0.0214,52.9746,wikidata,borough
+Lincolnshire,Lincolnshire,Grimsby,Grimsby,2,Christopher Wray; Sir Gervase Holles,Wray died 1646; Holles disabled 22 August 1642,1,1,0,0,0,2,1,1,1,0.5,-0.08,53.5675,wikidata,borough
+Lincolnshire,Lincolnshire,Stamford,Stamford,2,Geoffrey Palmer; Thomas Hatcher,Palmer disabled 7 September 1642,1,1,0,0,0,2,1,1,1,0.5,-0.4837,52.6556,wikidata,borough
+Lincolnshire,Lincolnshire,Grantham,Grantham,2,Thomas Hussey; Henry Pelham,"Hussey died March 1641 - replaced by Sir William Airmine, 1st Baronet",0,0,0,0,0,2,0,0,0,0.0,-0.638055,52.918055,wikidata,borough
+Middlesex,Middlesex,Middlesex,Middlesex,2,Sir Gilbert Gerard; Sir John Franklyn,Francklyn died 1647,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Middlesex,Middlesex,Westminster,Westminster,2,John Glynne; William Bell,,0,0,0,0,0,2,0,0,0,0.0,-0.127,51.499,hand,borough
+Middlesex,Middlesex,City of London,City of London (elections to the Parliament of England),4,Sir Thomas Soame; Isaac Penington; Samuel Vassall; Matthew Cradock,Cradock  died in 1641 and was replaced by  John Venn,0,0,0,0,0,4,0,0,0,0.0,-0.092,51.514,hand,borough
+Monmouthshire,Monmouthshire,Monmouthshire,Monmouthshire,2,Sir Charles Williams; William Herbert,Williams died 1641; Herbert disabled 5 February 1644,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Monmouthshire,Monmouthshire,Monmouth,Monmouth Boroughs,1,Thomas Trevor,Disputed election - declared void 29 November 1644,0,0,0,0,0,1,0,0,0,0.0,-2.72,51.81,wikidata,borough
+Norfolk,Norfolk,Norfolk,Norfolk,2,Sir John Potts; Sir Edmund Moundeford,"Moundeford died - replaced by Sir John Hobart, 2nd Baronet in 1641. Hobart died in 1647",0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Norfolk,Norfolk,Norwich,Norwich,2,Richard Harman; Richard Catelyn,Harman died 1645; Catelyn disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,1.292778,52.628611,wikidata,borough
+Norfolk,Norfolk,King's Lynn,King's Lynn,2,John Perceval; Thomas Toll,"Perceval died 1644, his replacement Edmund Hudson expelled 1647",0,0,0,0,0,2,0,0,0,0.0,0.3976,52.7543,wikidata,borough
+Norfolk,Norfolk,Yarmouth,Great Yarmouth,2,Miles Corbet; Edward Owner  (Recorder),,0,0,0,0,0,2,0,0,0,0.0,1.729,52.608,hand,borough
+Norfolk,Norfolk,Thetford,Thetford,2,Sir Thomas Wodehouse; Framlingham Gawdy,,0,0,0,0,0,2,0,0,0,0.0,0.74,52.41,wikidata,borough
+Norfolk,Norfolk,Castle Rising,Castle Rising,2,"Sir John Holland, Bt; Sir Christopher Hatton",Hatton sat for Heigham Ferrers - replaced by Sir Robert Hatton; Hatton disabled 7 September 1642,1,1,0,0,0,2,1,1,1,0.5,0.4694,52.7945,wikidata,borough
+Northamptonshire,Northamptonshire,Northamptonshire,Northamptonshire,2,"Sir Gilbert Pickering, Bt; John Dryden Bt.",,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Northamptonshire,Northamptonshire,Peterborough,Peterborough,2,"William FitzWilliam; Sir Robert Napier, 2nd Baronet",,0,0,0,0,0,2,0,0,0,0.0,-0.243056,52.5725,wikidata,borough
+Northamptonshire,Northamptonshire,Northampton,Northampton,2,Zouch Tate; Richard Knightley,,0,0,0,0,0,2,0,0,0,0.0,-0.9,52.233333,wikidata,borough
+Northamptonshire,Northamptonshire,Brackley,Brackley,2,John Crew; Sir Martin Lister,,0,0,0,0,0,2,0,0,0,0.0,-1.147,52.032,wikidata,borough
+Northamptonshire,Northamptonshire,Higham Ferrars,Higham Ferrers,1,Sir Christopher Hatton,Hatton disabled 7 September 1642,1,1,0,0,0,1,1,1,1,1.0,-0.5844,52.3057,wikidata,borough
+Northumberland,Northumberland,Northumberland,Northumberland,2,Sir William Widdrington; Henry Percy,Percy expelled on 9 December 1641 - replacement Sir John Fenwick disabled 22 January 1644; Widdrington disabled 26 August 1642,2,2,0,0,0,2,2,2,2,1.0,,,county,county
+Northumberland,Northumberland,Newcastle,Newcastle on Tyne,2,Sir John Melton; John Blakiston,Melton died 1640 - replacement Sir Henry Anderson  disabled 4 September 1643,1,1,0,0,0,2,1,1,1,0.5,-1.613333,54.977778,wikidata,borough
+Northumberland,Northumberland,Berwick upon Tweed,Berwick upon Tweed,2,Sir Thomas Widdrington; Sir Edward Osborne,Osborne's election declared void - replaced by  Robert Scawen,0,0,0,0,0,2,0,0,0,0.0,-2.0025,55.769167,wikidata,borough
+Northumberland,Northumberland,Morpeth,Morpeth,2,John Fenwick; Sir William Carnaby,Carnaby disabled 26 August 1642; Fenwick disabled 22 January 1644,2,2,0,0,0,2,2,2,2,1.0,-1.690833,55.1675,wikidata,borough
+Nottinghamshire,Nottinghamshire,Nottinghamshire,Nottinghamshire,2,Sir Thomas Hutchinson; Robert Sutton,Hutchinson died 1643; Sutton disabled 1643,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Nottinghamshire,Nottinghamshire,Nottingham,Nottingham,2,Francis Pierrepoint; William Stanhope,Stanhope disabled 1644 replaced by Gilbert Millington,1,1,0,0,0,2,1,1,1,0.5,-1.149167,52.955,wikidata,borough
+Nottinghamshire,Nottinghamshire,East Retford,East Retford,2,Sir Gervase Clifton; Charles Viscount Mansfield,Clifton disabled; Mansfield disabled 22 January 1644,2,2,0,0,0,2,2,2,2,1.0,-0.9408,53.3169,wikidata,borough
+Oxfordshire,Oxfordshire,Oxfordshire,Oxfordshire,2,Thomas Viscount Wenman; Hon. James Fiennes,,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Oxfordshire,Oxfordshire,Oxford University,Oxford University,2,Sir Thomas Roe; John Selden,Roe died by 1644,0,0,0,0,0,2,0,0,0,0.0,-1.257778,51.751944,wikidata,borough
+Oxfordshire,Oxfordshire,Oxford,Oxford,2,John Whistler; John Smith,Whistler and Smith both disabled 18 November 1646,2,0,2,0,0,2,2,0,2,1.0,-1.257778,51.751944,wikidata,borough
+Oxfordshire,Oxfordshire,Woodstock,Woodstock,2,William Lenthall; Sir Robert Pye,Lenthall was Speaker ;  Pye in place of William Herbert,0,0,0,0,0,2,0,0,0,0.0,-1.354,51.845,wikidata,borough
+Oxfordshire,Oxfordshire,Banbury,Banbury,1,Nathaniel Fiennes,,0,0,0,0,0,1,0,0,0,0.0,-1.339167,52.061389,wikidata,borough
+Rutland,Rutland,Rutland,Rutland,2,Sir Guy Palmes; Hon. Baptist Noel,Noel succeeded to peerage 1643; Palmes disabled 28 September 1643,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Salop,Shropshire,Shropshire,Shropshire,2,"Sir Richard Lee, 2nd Baronet; Sir Richard Newport",Lee disabled 6 September 1642;  Newport ennobled 14 October 1642,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Salop,Shropshire,Shrewsbury,Shrewsbury,2,Francis Newport; William Spurstow,Newport disabled 22 January 1643; Spurstow died,1,1,0,0,0,2,1,1,1,0.5,-2.754444,52.708056,wikidata,borough
+Salop,Shropshire,Bridgnorth,Bridgnorth,2,(Sir) Thomas Whitmore; Edward Acton,Acton and Whitmore both disabled 5 February 1644,2,2,0,0,0,2,2,2,2,1.0,-2.4195,52.535,wikidata,borough
+Salop,Shropshire,Ludlow,Ludlow,2,Charles Baldwin; Ralph Goodwin,Baldwin and Goodwin disabled 5 February 1644,2,2,0,0,0,2,2,2,2,1.0,-2.716667,52.366667,wikidata,borough
+Salop,Shropshire,Wenlock,Wenlock,2,"William Pierrepont; Sir Thomas Littleton, Bt",Littleton disabled 5 February 1644,1,1,0,0,0,2,1,1,1,0.5,-2.558,52.5966,wikidata,borough
+Salop,Shropshire,Bishops Castle,Bishops Castle,2,Robert Howard; Richard Moor,Howard disabled 6 September 1642; Moor died by 1644,1,1,0,0,0,2,1,1,1,0.5,-2.9978,52.493,wikidata,borough
+Somerset,Somerset,Somerset,Somerset,2,Sir John Poulett; Sir John Stawell,Powlett and Stawell both disabled 8 August 1642,2,2,0,0,0,2,2,2,2,1.0,,,county,county
+Somerset,Somerset,Bristol,Bristol,2,Humphrey Hooke; Richard Longe,Hooke and Longe expelled as monopolists 1642;  Replaced by John Glanville and John Tailer both disabled 25 September 1645,2,0,2,0,0,2,2,0,2,1.0,-2.5975,51.453611,wikidata,borough
+Somerset,Somerset,Bath,Bath,2,William Bassett; Alexander Popham,Bassett disabled 5 February 1644,1,1,0,0,0,2,1,1,1,0.5,-2.359722,51.381389,wikidata,borough
+Somerset,Somerset,Wells,Wells,2,Sir Ralph Hopton; Sir Edward Rodney,Hopton disabled 5 August 1642; Rodney disabled 12 August 1642,2,2,0,0,0,2,2,2,2,1.0,-2.645,51.209444,wikidata,borough
+Somerset,Somerset,Taunton,Taunton,2,Sir William Portman; George Searle,Portman disabled 5 February 1644,1,1,0,0,0,2,1,1,1,0.5,-3.1,51.019167,wikidata,borough
+Somerset,Somerset,Bridgwater,Bridgwater,2,Peter Wroth; Edmund Wyndham,"Wyndham expelled 1641, his replacement Thomas Smith disabled 5 August 1642; Wroth died 1644",1,1,0,0,0,2,1,1,1,0.5,-2.993,51.128,wikidata,borough
+Somerset,Somerset,Minehead,Minehead,2,Sir Francis Popham; Alexander Luttrell,"Luttrell died 1642, replacement Thomas Hanham disabled 1644; Popham died 1644",1,1,0,0,0,2,1,1,1,0.5,-3.4738,51.2038,wikidata,borough
+Somerset,Somerset,Ilchester,Ilchester,2,Edward Phelips; Robert Hunt,Phelips and Hunt disabled 5 February 1644,2,2,0,0,0,2,2,2,2,1.0,-2.6825,51.0011,wikidata,borough
+Somerset,Somerset,Milborne Port,Milborne Port,2,Edward Kyrton; John Digby,Kyrton disabled 11 August 1642; Digby disabled 5 August 1642,2,2,0,0,0,2,2,2,2,1.0,-2.461,50.9666,wikidata,borough
+Staffordshire,Staffordshire,Staffordshire,Staffordshire,2,Sir Edward Littleton; Hervey Bagot,Bagot disabled 24 November 1642; Littleton disabled 4 March 1644,2,2,0,0,0,2,2,2,2,1.0,,,county,county
+Staffordshire,Staffordshire,Stafford,Stafford,2,Ralph Sneyd; Richard Weston,Weston disabled 1642; Sneyd disabled 20 May 1643,2,2,0,0,0,2,2,2,2,1.0,-2.1171,52.8066,wikidata,borough
+Staffordshire,Staffordshire,Newcastle under Lyme,Newcastle under Lyme,2,Sir Richard Leveson; Sir John Merrick,Leveson disabled 24 November 1642,1,1,0,0,0,2,1,1,1,0.5,-2.2278,53.0109,wikidata,borough
+Staffordshire,Staffordshire,Lichfield,Lichfield,2,Sir Richard Cave; Michael Noble,Cave disabled 30 August 1642,1,1,0,0,0,2,1,1,1,0.5,-1.82653,52.6835,wikidata,borough
+Staffordshire,Staffordshire,Tamworth,Tamworth,2,Ferdinando Stanhope; Henry Wilmot,Wilmot expelled 9 December 1641; Stanhope killed in action 1643,0,0,0,0,1,2,1,1,0,0.5,-1.695,52.633889,wikidata,borough
+Suffolk,Suffolk,Suffolk,Suffolk,2,Sir Nathaniel Barnardiston; Sir Philip Parker,,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Suffolk,Suffolk,Ipswich,Ipswich,2,John Gurdon; William Cage,Cage died by 1644,0,0,0,0,0,2,0,0,0,0.0,1.155555,52.059445,wikidata,borough
+Suffolk,Suffolk,Dunwich,Dunwich,2,Henry Coke; Anthony Bedingfield,Coke disabled 7 September 1642,1,1,0,0,0,2,1,1,1,0.5,1.626,52.277,hand,borough
+Suffolk,Suffolk,Orford,Orford,2,"Sir William Playters, 2nd Baronet; Sir Charles le Grosse",,0,0,0,0,0,2,0,0,0,0.0,1.534439,52.094978,wikidata,borough
+Suffolk,Suffolk,Aldeburgh,Aldeburgh,2,Squire Bence; Captain Rainsborough,Rainsborough died 1641 replaced by Alexander Bence,0,0,0,0,0,2,0,0,0,0.0,1.6,52.15,wikidata,borough
+Suffolk,Suffolk,Sudbury,Sudbury,2,(Sir) Simonds d'Ewes; Sir Robert Crane,Crane died 1643,0,0,0,0,0,2,0,0,0,0.0,0.72815,52.0417,wikidata,borough
+Suffolk,Suffolk,Eye,Eye,2,Sir Frederick Cornwallis; Sir Roger North,Cornwallis disabled 23 September 1642,1,1,0,0,0,2,1,1,1,0.5,1.147,52.321,wikidata,borough
+Suffolk,Suffolk,Bury St Edmunds,Bury St Edmunds,2,Thomas Jermyn; Sir Thomas Barnardiston,Jermyn disabled 14 February 1644,1,1,0,0,0,2,1,1,1,0.5,0.7125,52.246667,wikidata,borough
+Surrey,Surrey,Surrey,Surrey,2,Sir Richard Onslow; Sir Ambrose Browne,,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Surrey,Surrey,Southwark,Southwark,2,Edward Bagshawe; John White,White died 1643; Bagshawe disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-0.09,51.503,hand,borough
+Surrey,Surrey,Bletchingly,Bletchingley,2,"John Evelyn, senior; Edward Bysshe jun.",,0,0,0,0,0,2,0,0,0,0.0,-0.0992,51.2406,wikidata,borough
+Surrey,Surrey,Reigate,Reigate,2,William Lord Monson; Sir Thomas Bludder,Bludder disabled,1,1,0,0,0,2,1,1,1,0.5,-0.205833,51.237644,wikidata,borough
+Surrey,Surrey,Guildford,Guildford,2,Sir Robert Parkhurst; George Abbotts,Abbotts died 1645,0,0,0,0,0,2,0,0,0,0.0,-0.5746,51.2354,wikidata,borough
+Surrey,Surrey,Gatton,Gatton,2,Sir Samuel Owfield; Thomas Sandys,Owfield died 1644,0,0,0,0,0,2,0,0,0,0.0,-0.195,51.262,hand,borough
+Surrey,Surrey,Haslemere,Haslemere,2,John Goodwin; Poynings More,,0,0,0,0,0,2,0,0,0,0.0,-0.7117,51.0899,wikidata,borough
+Sussex - see also Cinque Ports,Sussex,Sussex,Sussex,2,Sir Thomas Pelham Bt; Anthony Stapley,,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Sussex - see also Cinque Ports,Sussex,Chichester,Chichester,2,Christopher Lewknor; Sir William Morley,Lewknor disabled 2 September 1642; Morley disabled 23 November 1642,2,2,0,0,0,2,2,2,2,1.0,-0.7792,50.8365,wikidata,borough
+Sussex - see also Cinque Ports,Sussex,Horsham,Horsham,2,Thomas Middleton; Hall Ravenscroft  .,,0,0,0,0,0,2,0,0,0,0.0,-0.325,51.062,wikidata,borough
+Sussex - see also Cinque Ports,Sussex,Midhurst,Midhurst,2,Thomas May; William Cawley,May disabled 23 November 1642,1,1,0,0,0,2,1,1,1,0.5,-0.74,50.985,wikidata,borough
+Sussex - see also Cinque Ports,Sussex,Lewes,Lewes,2,Herbert Morley; James Rivers,Rivers died 1641 replaced by Henry Shelley,0,0,0,0,0,2,0,0,0,0.0,0.011667,50.874722,wikidata,borough
+Sussex - see also Cinque Ports,Sussex,New Shoreham,New Shoreham,2,John Alford; William Marlott,,0,0,0,0,0,2,0,0,0,0.0,-0.274,50.834,hand,borough
+Sussex - see also Cinque Ports,Sussex,Bramber,Bramber,2,Sir Thomas Bowyer; Arthur Onslow,Bowyer disabled 23 November  1642,1,1,0,0,0,2,1,1,1,0.5,-0.314139,50.8828,wikidata,borough
+Sussex - see also Cinque Ports,Sussex,Steyning,Steyning,2,Thomas Leedes; Sir Thomas Farnefold,Leedes disabled 23 November 1642; Farnefold died in 1643,1,1,0,0,0,2,1,1,1,0.5,-0.3279,50.8868,wikidata,borough
+Sussex - see also Cinque Ports,Sussex,East Grinstead,East Grinstead,2,Lord Buckhurst; Robert Goodwin,Buckhurst disabled 5 February 1643,1,1,0,0,0,2,1,1,1,0.5,-0.014445,51.128611,wikidata,borough
+Sussex - see also Cinque Ports,Sussex,Arundel,Arundel,2,Henry Garton; Sir Edward Alford,Garton died; Alford disabled 22 January 1644,1,1,0,0,0,2,1,1,1,0.5,-0.554722,50.854722,wikidata,borough
+Warwickshire,Warwickshire,Warwickshire,Warwickshire,2,Richard Shuckburgh; James Compton,Compton inherited peerage 1643; Shuckburgh disabled 11 October 1644,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Warwickshire,Warwickshire,Coventry,Coventry,2,John Barker; Simon Norton,Norton died in 1641 and was replaced by William Jesson,0,0,0,0,0,2,0,0,0,0.0,-1.516667,52.416667,wikidata,borough
+Warwickshire,Warwickshire,Warwick,Warwick,2,William Purefoy; Sir Thomas Lucy,Lucy died 1640 replaced by Godfrey Bosvile,0,0,0,0,0,2,0,0,0,0.0,-1.59,52.28,wikidata,borough
+Westmorland,Westmorland,Westmoreland,Westmorland,2,Sir Philip Musgrave; Sir Henry Bellingham,Musgrave disabled 15 March 1643; Bellingham disabled 11 October 1645,2,1,1,0,0,2,2,1,2,1.0,,,county,county
+Westmorland,Westmorland,Appleby,Appleby,2,Viscount Dungarvan; Sir John Brooke,Brooke disabled 15 March 1643; Dungarvan disabled 1643,2,2,0,0,0,2,2,2,2,1.0,-2.492,54.577,hand,borough
+Wiltshire,Wiltshire,Wiltshire,Wiltshire,2,Sir James Thynne; Sir Henry Ludlow,Thynne disabled 1642; Ludlow died 1644,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Wiltshire,Wiltshire,Salisbury,Salisbury,2,Robert Hyde; Michael Oldisworth,Hyde disabled 4 August 1642,1,1,0,0,0,2,1,1,1,0.5,-1.7936,51.074,wikidata,borough
+Wiltshire,Wiltshire,Wilton,Wilton,2,Sir Henry Vane (the elder); Sir Benjamin Rudyerd,,0,0,0,0,0,2,0,0,0,0.0,-1.864,51.08,wikidata,borough
+Wiltshire,Wiltshire,Downton,Downton,2,Sir Edward Griffin; Sir Anthony Ashley Cooper,Cooper's election disputed and he never sat; Griffin disabled on 5 February 1644,1,1,0,0,0,2,1,1,1,0.5,-1.743,50.993,wikidata,borough
+Wiltshire,Wiltshire,Hindon,Hindon,2,Robert Reynolds; Miles Fleetwood,Fleetwood died 1641 - replacement Thomas Bennett died 1644,0,0,0,0,0,2,0,0,0,0.0,-2.12814,51.09536,wikidata,borough
+Wiltshire,Wiltshire,Heytesbury,Heytesbury,2,Thomas Moore; Edward Ashe,,0,0,0,0,0,2,0,0,0,0.0,-2.1,51.1833,wikidata,borough
+Wiltshire,Wiltshire,Westbury,Westbury,2,William Wheler; John Ashe,,0,0,0,0,0,2,0,0,0,0.0,-2.191,51.26,wikidata,borough
+Wiltshire,Wiltshire,Calne,Calne,2,George Lowe; Hugh Rogers,Lowe disabled 5 February 1644,1,1,0,0,0,2,1,1,1,0.5,-2.004269,51.4353,wikidata,borough
+Wiltshire,Wiltshire,Devizes,Devizes,2,Edward Bayntun; Robert Nicholas,,0,0,0,0,0,2,0,0,0,0.0,-1.995833,51.352778,wikidata,borough
+Wiltshire,Wiltshire,Chippenham,Chippenham,2,Sir Edward Hungerford; Sir Edward Bayntun,,0,0,0,0,0,2,0,0,0,0.0,-2.1158,51.4585,wikidata,borough
+Wiltshire,Wiltshire,Malmesbury,Malmesbury,2,Sir Neville Poole; Sir Anthony Hungerford,Hungerford disabled 1644,1,1,0,0,0,2,1,1,1,0.5,-2.0996,51.5848,wikidata,borough
+Wiltshire,Wiltshire,Cricklade,Cricklade,2,Robert Jenner; Thomas Hodges,,0,0,0,0,0,2,0,0,0,0.0,-1.860958,51.641408,wikidata,borough
+Wiltshire,Wiltshire,Great Bedwyn,Great Bedwyn,2,Sir Walter Smith; Richard Hardinge,Smith and Hardinge both disabled 5 February 1644,2,2,0,0,0,2,2,2,2,1.0,-1.602,51.379,wikidata,borough
+Wiltshire,Wiltshire,Ludgershall,Ludgershall,2,William Ashburnham; Sir John Evelyn,Ashburnham expelled 1641,0,0,0,0,0,2,0,0,0,0.0,-1.6209,51.2566,wikidata,borough
+Wiltshire,Wiltshire,Old Sarum,Old Sarum,2,Hon. Robert Cecil; Edward Herbert,Herbert impeached 1641; replacement Sir William Savile disabled 6 September 1642,1,1,0,0,0,2,1,1,1,0.5,-1.805,51.093,hand,borough
+Wiltshire,Wiltshire,Wootton Bassett,Wootton Bassett,2,Edward Poole; William Pleydell,Pleydell disabled 5 February 1644,1,1,0,0,0,2,1,1,1,0.5,-1.905,51.539,hand,borough
+Wiltshire,Wiltshire,Marlborough,Marlborough,2,John Francklyn; Sir Francis Seymour,Seymour raised to the peerage 1641; Francklyn died,0,0,0,0,0,2,0,0,0,0.0,-1.7274,51.4212,wikidata,borough
+Worcestershire,Worcestershire,Worcestershire,Worcestershire,2,John Wilde; Humphrey Salwey,,0,0,0,0,0,2,0,0,0,0.0,,,county,county
+Worcestershire,Worcestershire,Worcester,Worcester,2,John Coucher; John Nash,,0,0,0,0,0,2,0,0,0,0.0,-2.220555,52.191111,wikidata,borough
+Worcestershire,Worcestershire,Droitwich,Droitwich,2,Endymion Porter; Samuel Sandys,Sandys disabled 20 August 1642; Porter disabled 10 March 1643,2,2,0,0,0,2,2,2,2,1.0,-2.15,52.268,hand,borough
+Worcestershire,Worcestershire,Evesham,Evesham,2,Richard Cresheld; William Sandys,"Sandys expelled 1641, replacement John Coventry disabled 12 August 1642",1,1,0,0,0,2,1,1,1,0.5,-1.95,52.09,wikidata,borough
+Worcestershire,Worcestershire,Bewdley,Bewdley,1,Sir Henry Herbert,Herbert disabled 20 August 1642,1,1,0,0,0,1,1,1,1,1.0,-2.316239,52.375239,wikidata,borough
+Yorkshire,Yorkshire,Yorkshire,Yorkshire,2,"Ferdinando, Lord Fairfax; Henry Belasyse",Belasyse disabled 6 September 1642; Fairfax died 1648,1,1,0,0,0,2,1,1,1,0.5,,,county,county
+Yorkshire,Yorkshire,York,York,2,Sir William Allanson; Thomas Hoyle (Alderman),,0,0,0,0,0,2,0,0,0,0.0,-1.083333,53.95,wikidata,borough
+Yorkshire,Yorkshire,Kingston upon Hull,Kingston upon Hull,2,"Sir Henry Vane, junior; Sir John Lister",Lister died 1640 - replaced by Peregrine Pelham,0,0,0,0,0,2,0,0,0,0.0,-0.3325,53.744444,wikidata,borough
+Yorkshire,Yorkshire,Knaresborough,Knaresborough,2,Sir Henry Slingsby; Henry Benson,Benson expelled 2 November 1641 - disputed election returned William Deerlove and then William Constable; Slingsby disabled 6 September 1642,1,1,0,0,0,2,1,1,1,0.5,-1.467,54.0084,wikidata,borough
+Yorkshire,Yorkshire,Scarborough,Scarborough,2,Sir Hugh Cholmeley; John Hotham,Cholmeley disabled 3 April 1643; Hotham disabled 8 September 1643,2,2,0,1,0,2,1,1,2,0.5,-0.4,54.2825,wikidata,borough
+Yorkshire,Yorkshire,Ripon,Ripon,2,William Mallory; John Mallory,W Mallory disabled 6 September 1642; J Mallory disabled 16 January 1644,2,2,0,0,0,2,2,2,2,1.0,-1.523611,54.138056,wikidata,borough
+Yorkshire,Yorkshire,Richmond,Richmond (Yorks),2,"Sir William Pennyman, Bt.; Sir Thomas Danby",Pennyman disabled 11 August 1642; Danby disabled 6 September 1642,2,2,0,0,0,2,2,2,2,1.0,-1.737,54.403,hand,borough
+Yorkshire,Yorkshire,Hedon,Hedon,2,Sir William Strickland; John Alured,,0,0,0,0,0,2,0,0,0,0.0,-0.1948,53.7395,wikidata,borough
+Yorkshire,Yorkshire,Boroughbridge,Boroughbridge,2,Sir Philip Stapylton; Sir Thomas Mallaverer Bt,Stapleton died 1647,0,0,0,0,0,2,0,0,0,0.0,-1.398,54.095,wikidata,borough
+Yorkshire,Yorkshire,Thirsk,Thirsk,2,John Belasyse; Sir Thomas Ingram,Belasyse and Ingram both disabled 6 September 1642,2,2,0,0,0,2,2,2,2,1.0,-1.34205,54.232731,wikidata,borough
+Yorkshire,Yorkshire,Aldborough,Aldborough,2,Richard Aldborough; Robert Strickland,Strickland disabled 21 January 1643; Aldborough disabled 6 September 1642,2,2,0,0,0,2,2,2,2,1.0,-1.381,54.091,wikidata,borough
+Yorkshire,Yorkshire,Beverley,Beverley,2,Sir John Hotham Bt; Michael Warton,Hotham disabled 7 September 1643; Warton disabled 22 January 1644,2,2,0,1,0,2,1,1,2,0.5,-0.431568,53.842549,wikidata,borough
+Yorkshire,Yorkshire,Pontefract,Pontefract,2,Sir George Wentworth of Woolley; Sir George Wentworth of Wentworth Woodhouse,Wentworth of Woolley disabled 6 September 1642; Wentworth of Woodhouse disabled 22 January 1644,2,2,0,0,0,2,2,2,2,1.0,-1.312,53.691,wikidata,borough
+Yorkshire,Yorkshire,Malton,Malton,2,Thomas Hebblethwaite; John Wastell,Hebblethwaite disabled 29 November 1644,1,1,0,0,0,2,1,1,1,0.5,-0.792,54.139,wikidata,borough
+Yorkshire,Yorkshire,Northallerton,Northallerton,2,Sir Henry Cholmley; Sir John Ramsden,Ramsden disabled April 1644,1,1,0,0,0,2,1,1,1,0.5,-1.4285,54.3378,wikidata,borough
+Cinque Ports,Sussex,Hastings,Hastings,2,John Ashburnham; Thomas Eversfield,Ashburnham and Eversfield both disabled 5 February 1644,2,2,0,0,0,2,2,2,2,1.0,0.583333,50.855,wikidata,borough
+Cinque Ports,Kent,Romney,New Romney,2,(Sir) Norton Knatchbull; Thomas Webb,Webb expelled 21 January 1642 as monopolist - replaced by Richard Browne,0,0,0,0,0,2,0,0,0,0.0,0.941,50.985,wikidata,borough
+Cinque Ports,Kent,Hythe,Hythe,2,Henry Heyman; John Harvey,Harvey died 1645,0,0,0,0,0,2,0,0,0,0.0,1.084,51.0716,wikidata,borough
+Cinque Ports,Kent,Dover,Dover,2,Sir Edward Boys; Sir Peter Heyman,Heyman died 1641 replaced by Benjamin Weston,0,0,0,0,0,2,0,0,0,0.0,1.312222,51.1275,wikidata,borough
+Cinque Ports,Kent,Sandwich,Sandwich,2,Sir Thomas Peyton; Sir Edward Partridge,Peyton disabled 5 February 1644,1,1,0,0,0,2,1,1,1,0.5,1.338889,51.274722,wikidata,borough
+Cinque Ports,Sussex,Seaford,Seaford,2,Sir Thomas Parker; Francis Gerard,,0,0,0,0,0,2,0,0,0,0.0,0.1,50.77,wikidata,borough
+Cinque Ports,Sussex,Rye,Rye,2,"John White; Sir John Jacob, 1st Baronet",Jacob expelled 1641 replaced by William Hay; White disabled 5 February 1644,1,1,0,0,0,2,1,1,1,0.5,0.733333,50.95,wikidata,borough
+Cinque Ports,Sussex,Winchelsea,Winchelsea,2,John Finch; Nicholas Crisp,Crisp expelled 1641- replacement William Smith disabled 1644; Finch died 1642,1,1,0,0,0,2,1,1,1,0.5,0.708333,50.925,wikidata,borough
+Wales,Anglesey,Anglesey,Anglesey,1,John Bodvel,Bodvel disabled 5 February 1644,1,1,0,0,0,1,1,1,1,1.0,,,county,county
+Wales,Anglesey,Newburgh,Beaumaris,1,John Griffith,Griffith died 10 August 1642,0,0,0,0,0,1,0,0,0,0.0,-4.359,53.164789,wikidata,borough
+Wales,Brecknockshire,Brecknockshire,Brecknockshire,1,William Morgan,,0,0,0,0,0,1,0,0,0,0.0,,,county,county
+Wales,Brecknockshire,Brecknock,Brecknock,1,Herbert Price,Price disabled,1,1,0,0,0,1,1,1,1,1.0,-3.39086,51.94677,wikidata,borough
+Wales,Cardiganshire,Cardiganshire,Cardiganshire,1,Walter Lloyd,Lloyd disabled 5 February 1644,1,1,0,0,0,1,1,1,1,1.0,,,county,county
+Wales,Cardiganshire,Cardigan,Cardigan,1,John Vaughan,Vaughan disabled 1 September 1645,1,0,1,0,0,1,1,0,1,1.0,-4.657919,52.084169,wikidata,borough
+Wales,Carmarthenshire,Carmarthenshire,Carmarthenshire,1,Henry Vaughan,Vaughan disabled 1644,1,1,0,0,0,1,1,1,1,1.0,,,county,county
+Wales,Carmarthenshire,Carmarthen,Carmarthen,1,Francis Lloyd,Lloyd disabled 5 February 1644,1,1,0,0,0,1,1,1,1,1.0,-4.316389,51.856944,wikidata,borough
+Wales,Caernarfonshire,Carnarvonshire,Carnarvonshire,1,John Griffith jun,Griffith disabled 10 August 1642,1,1,0,0,0,1,1,1,1,1.0,,,county,county
+Wales,Caernarfonshire,Carnarvon,Carnarvon,1,William Thomas,Thomas disabled 5 February 1644,1,1,0,0,0,1,1,1,1,1.0,-4.27,53.14,wikidata,borough
+Wales,Denbighshire,Denbighshire,Denbighshire,1,Thomas Middleton,,0,0,0,0,0,1,0,0,0,0.0,,,county,county
+Wales,Denbighshire,Denbigh Boroughs,Denbigh Boroughs,1,Simon Thelwall,,0,0,0,0,0,1,0,0,0,0.0,-3.415711,53.187169,wikidata,borough
+Wales,Flintshire,Flintshire,Flintshire,1,John Mostyn,Mostyn disabled 5 February 1644,1,1,0,0,0,1,1,1,1,1.0,,,county,county
+Wales,Flintshire,Flint,Flint,1,John Salusbury,Salusbiry disabled 5 February 1644,1,1,0,0,0,1,1,1,1,1.0,-3.132,53.244,wikidata,borough
+Wales,Glamorgan,Glamorgan,Glamorgan,1,"Philip, Lord Herbert",,0,0,0,0,0,1,0,0,0,0.0,,,county,county
+Wales,Glamorgan,Cardiff,Cardiff,1,William Herbert,Killed at Battle of Edgehill Oct 1642. No representation 1642-1645,0,0,0,0,1,1,1,1,0,1.0,-3.179167,51.481667,wikidata,borough
+Wales,Merionethshire,Merioneth,Merioneth,1,William Price,Price disabled 5 February 1644,1,1,0,0,0,1,1,1,1,1.0,,,county,county
+Wales,Montgomeryshire,Montgomeryshire,Montgomeryshire,1,"Sir John Pryce, 1st Baronet",Pryse disabled 20 October 1645,1,0,1,0,0,1,1,0,1,1.0,,,county,county
+Wales,Montgomeryshire,Montgomery,Montgomery,1,Richard Herbert,Herbert disabled 12 September 1642,1,1,0,0,0,1,1,1,1,1.0,-3.1493,52.5628,wikidata,borough
+Wales,Pembrokeshire,Pembrokeshire,Pembrokeshire,1,John Wogan,died by 1644,0,0,0,0,0,1,0,0,0,0.0,,,county,county
+Wales,Pembrokeshire,Pembroke,Pembroke,1,Hugh Owen,,0,0,0,0,0,1,0,0,0,0.0,-4.9158,51.676039,wikidata,borough
+Wales,Pembrokeshire,Haverford West,Haverfordwest,1,"Sir John Stepney, 3rd Baronet",disabled,1,1,0,0,0,1,1,1,1,1.0,-4.969444,51.801111,wikidata,borough
+Wales,Radnorshire,Radnorshire,Radnorshire,1,Charles Price,Price disabled 1642,1,1,0,0,0,1,1,1,1,1.0,,,county,county
+Wales,Radnorshire,Radnor,Radnor,1,Philip Warwick,"Warwick disabled 5 February 1644 |}  ==See also== *List of parliaments of England *List of parliaments of Great Britain *List of parliaments of the United Kingdom  ==References== *D. Brunton & D. H. Pennington, Members of the Long Parliament (London: George Allen & Unwin, 1954) *[http://www2.odl.ox.ac.uk/gsdl/cgi-bin/library?e=d-000-00---0modhis06--00-0-0-0prompt-10---4------0-1l--1-en-50---20-about---00001-001-1-1isoZz-8859Zz-1-0&a=d&cl=CL1&d=modhis006-aac.6.1.123 Cobbett's Parliamentary history of England, from the Norman Conquest in 1066 to the year 1803 (London: Thomas Hansard, 1808)] * *[https://books.google.com/books?id=WykOAAAAQAAJ The parliamentary or constitutional history of England;: being a faithful account of all the most remarkable transactions in Parliament, from the earliest times. Collected from the journals of both Houses, the records, ..., Volume 9]      Category:1640 in England 1640-11",1,1,0,0,0,1,1,1,1,1.0,-3.16,52.24,wikidata,borough
