@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "Roundhead or Cavalier, Leave or Remain? The Danelaw, Civil War Allegiance and the 2016 Referendum in England and Wales"
+type: dataset
+authors:
+  - family-names: Hotham
+    given-names: Tristan
+    orcid: "https://orcid.org/0000-0003-4931-9349"
+    affiliation: "Independent researcher"
+doi: "10.5281/zenodo.24104516"
+url: "https://maps.tristanhotham.com/civil-war-leave/"
+repository-code: "https://github.com/Tristan-Hotham/civil-war-leave"
+license: CC-BY-4.0
+keywords:
+  - "Brexit"
+  - "Danelaw"
+  - "English Civil War"
+  - "Long Parliament"
+  - "historical persistence"
+  - "electoral geography"
+  - "boundary design"
+  - "England and Wales"
